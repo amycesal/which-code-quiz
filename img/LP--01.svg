@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+	.st4{font-size:18px;}
+	.st5{fill:#C99191;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#C4C2C2;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#C6AF91;stroke:#000000;stroke-miterlimit:10;}
+	.st8{fill:#91C4A9;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#91A0C1;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#B891C1;stroke:#000000;stroke-miterlimit:10;}
+	.st11{fill:#AAC191;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<line class="st0" x1="96" y1="263.5" x2="525" y2="263.5"/>
+<line class="st0" x1="524" y1="247.5" x2="783" y2="247.5"/>
+<line class="st0" x1="524" y1="278.5" x2="783" y2="278.5"/>
+<rect x="42.5" y="259" class="st1" width="136" height="11"/>
+<text transform="matrix(1 0 0 1 42.5 267.52)" class="st2 st3">Start Here</text>
+<rect x="40" y="329" class="st1" width="136" height="17"/>
+<text transform="matrix(1 0 0 1 40 337.52)" class="st2 st3">Amount of time</text>
+<rect x="33" y="100" class="st1" width="225" height="33"/>
+<text transform="matrix(1 0 0 1 33 112.7798)" class="st2 st4">Your Learning Plan</text>
+<rect x="33" y="145" class="st1" width="753" height="33"/>
+<text transform="matrix(1 0 0 1 33 153.52)"><tspan x="0" y="0" class="st2 st3">There’s no right or wrong way to learn how to code.  There’s also no end point, even for seasoned developers. Like the culinary industry, there are </tspan><tspan x="0" y="14.4" class="st2 st3">always new </tspan></text>
+<rect x="130" y="284" class="st1" width="47" height="76"/>
+<text transform="matrix(1 0 0 1 130 292.52)" class="st2 st3">HTML</text>
+<rect x="40" y="387" class="st1" width="61" height="76"/>
+<text transform="matrix(1 0 0 1 40 395.52)" class="st2 st3">Basics</text>
+<rect x="111" y="387" class="st1" width="140" height="76"/>
+<text transform="matrix(1 0 0 1 111 395.52)" class="st2 st3">Solid working knowledge</text>
+<rect x="261" y="387" class="st1" width="140" height="76"/>
+<text transform="matrix(1 0 0 1 261 395.52)" class="st2 st3">Strive for mastery</text>
+<rect x="259" y="284" class="st1" width="47" height="76"/>
+<text transform="matrix(1 0 0 1 259 292.52)" class="st2 st3">CSS</text>
+<rect x="129" y="253" class="st5" width="121" height="21"/>
+<rect x="110" y="353" class="st6" width="131.1" height="21"/>
+<rect x="259" y="353" class="st6" width="286.5" height="21"/>
+<rect x="40" y="353" class="st6" width="55.2" height="21"/>
+<rect x="258" y="253" class="st7" width="52.1" height="21"/>
+<rect x="325.9" y="284" class="st1" width="60" height="76"/>
+<text transform="matrix(1 0 0 1 325.9336 292.52)" class="st2 st3">Javascript</text>
+<rect x="320.9" y="253" class="st8" width="187" height="21"/>
+<rect x="535.9" y="223.3" class="st1" width="60" height="13.3"/>
+<text transform="matrix(1 0 0 1 535.9336 231.8533)" class="st2 st3">Python</text>
+<rect x="535.9" y="302" class="st1" width="60" height="13.3"/>
+<text transform="matrix(1 0 0 1 535.9336 310.52)" class="st2 st3">Ruby</text>
+<rect x="532.9" y="237.3" class="st9" width="187" height="21"/>
+<rect x="532.9" y="268.7" class="st10" width="187" height="21"/>
+<polyline class="st0" points="109.5,252.5 120.7,263.8 109.5,275 "/>
+<line class="st0" x1="524.5" y1="248" x2="524.5" y2="279"/>
+</svg>

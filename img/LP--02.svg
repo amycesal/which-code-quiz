@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 776 214" style="enable-background:new 0 0 776 214;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#C99191;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#C4C2C2;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#C6AF91;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#91C4A9;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#91A0C1;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#B891C1;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:none;}
+	.st8{font-family:'OpenSans-Bold';}
+	.st9{font-size:12px;}
+	.st10{font-family:'OpenSans-Semibold';}
+	.st11{font-family:'OpenSans';}
+	.st12{fill:#AAC191;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<line class="st0" x1="21" y1="50.5" x2="421" y2="50.5"/>
+<rect x="20.5" y="37.1" class="st7" width="136" height="28.9"/>
+<text transform="matrix(1 0 0 1 20.5 46.1826)"><tspan x="0" y="0" class="st8 st9">Start </tspan><tspan x="0" y="17" class="st8 st9">Here</tspan></text>
+<rect x="425.5" y="47.1" class="st7" width="136" height="28.9"/>
+<text transform="matrix(1 0 0 1 425.5 56.1826)" class="st8 st9">Reevaluate</text>
+<rect x="17" y="116" class="st7" width="136" height="17"/>
+<text transform="matrix(1 0 0 1 17 125.1201)" class="st10 st9">Amount of time</text>
+<rect x="290" y="71" class="st7" width="47" height="76"/>
+<text transform="matrix(1 0 0 1 290 80.1201)" class="st11 st9">HTML</text>
+<rect x="17" y="174" class="st7" width="61" height="76"/>
+<text transform="matrix(1 0 0 1 17 183.1201)" class="st11 st9">Basics</text>
+<rect x="88" y="174" class="st7" width="140" height="76"/>
+<text transform="matrix(1 0 0 1 88 183.1201)" class="st11 st9">Solid working knowledge</text>
+<rect x="250" y="174" class="st7" width="140" height="76"/>
+<text transform="matrix(1 0 0 1 250 183.1201)" class="st11 st9">Strive for mastery</text>
+<rect x="354" y="71" class="st7" width="47" height="76"/>
+<text transform="matrix(1 0 0 1 354 80.1201)" class="st11 st9">CSS</text>
+<rect x="287" y="40" class="st1" width="53.4" height="21"/>
+<rect x="87" y="140" class="st2" width="138.4" height="21"/>
+<rect x="248" y="140" class="st2" width="286.5" height="21"/>
+<rect x="17" y="140" class="st2" width="55.2" height="21"/>
+<rect x="353" y="40" class="st3" width="52.1" height="21"/>
+<rect x="88.9" y="66" class="st7" width="60" height="18"/>
+<text transform="matrix(1 0 0 1 88.9336 75.1201)" class="st11 st9">Scratch</text>
+<rect x="86.9" y="38" class="st12" width="187" height="21"/>
+<polyline class="st0" points="66.5,39.5 77.7,50.8 66.5,62 "/>
+<line class="st0" x1="421.5" y1="35" x2="421.5" y2="66"/>
+</svg>
