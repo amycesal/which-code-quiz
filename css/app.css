@@ -1,6 +1,7 @@
 .question {
 	padding-top: 200px;
 	padding-bottom: 200px;
+	background-color: #AFD8D7;
 }
 
 h1 {
@@ -53,30 +54,29 @@ div.code {
 }
 
 .button.primary{ 
-	border: 3px solid #FFF;
-	background: #1FBFDA;
-	color: #FFF !important;
-	font-weight: 600;
+	border: 1px solid #4D4D4D;
+	background: #FFF;
+	color: #000 !important;
+	font-weight: 300;
 	text-transform: uppercase;
 
 }
 
 .button.primary:hover, .button.primary:focus {
-		background: #179FC3;
+		background: #E6E6E6;
 	}
 
 
 .button.secondary{ 
-	border: 3px solid #9BEBED;
-	background: #1FBFDA;
-	color: #FFF !important;
+	border: 1px solid #4D4D4D;
+	background: #B9D5B6;
+	color: #000 !important;
 	font-weight: 600;
 	max-width: 300px;
 }
 
 .button.secondary:hover, .button.secondary:focus {
-		background: #179FC3;
-		border: 3px solid #1FBFDA;
+		background: #FFF;
 
 	}
 
@@ -90,11 +90,30 @@ div.code {
 
 }
 
+.top-bar a{
+	color: #838BAA;
+
+}
+
+.top-bar a:hover {
+	color: #656B7F;
+
+}
 
 .callout.primary {
-	background-color: #FFE648;
+	background-color: #BAC0E2;
 	padding-bottom: 150px;
 	padding-bottom: 150px;
 }
 
+.callout.secondary {
+	background-color: #EAD8B0;
+}
 
+.question-section {
+	background-color: #AFD8D7;
+}
+
+.callout.tertiary {
+	background-color: #E0B9B3;
+}
