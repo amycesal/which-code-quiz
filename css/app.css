@@ -33,6 +33,7 @@ h3 {
 
 p {
 	font-family: 'Source Sans Pro', sans-serif;
+	max-width: 750px;
 }
 a { 
 	color: #000;
